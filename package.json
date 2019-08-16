@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-backdraft",
+  "version": "0.0.0",
+  "description": "eslint rules for the backdraft family of projects",
+  "homepage": "http://backdraftjs.org",
+  "main": "index.js",
+  "bugs": "http://github.com/altoviso/eslint-config-backdraft/issues",
+  "github": "http://github.com/altoviso/eslint-config-backdraft",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/altoviso/eslint-config-backdraft.git"
+  },
+  "scripts": {},
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "backdraft"
+  ],
+  "author": "Rawld Gill",
+  "license": "BSD-3-Clause",
+  "peerDependencies": {
+    "eslint": ">= 6.1.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
