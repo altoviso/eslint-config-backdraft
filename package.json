@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-backdraft",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "eslint rules for the backdraft family of projects",
   "homepage": "http://backdraftjs.org",
   "main": "index.js",
